@@ -1,0 +1,196 @@
+{
+ "recipe_id": "pp-3aa7dbb483",
+ "regions": [
+  {
+   "name": "retina/Region 0",
+   "shape": [
+    24524,
+    13385
+   ],
+   "gigapixels": 0.33,
+   "channels": {
+    "DAPI": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "FTH1": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "PolyT": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "dtype": "uint16",
+   "tissue_fraction": 0.076,
+   "scan_s": 0.3
+  },
+  {
+   "name": "retina/Region 1",
+   "shape": [
+    39318,
+    35901
+   ],
+   "gigapixels": 1.41,
+   "channels": {
+    "DAPI": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "FTH1": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "PolyT": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "dtype": "uint16",
+   "tissue_fraction": 0.017,
+   "scan_s": 0.6
+  },
+  {
+   "name": "retina/Region 2",
+   "shape": [
+    33997,
+    35667
+   ],
+   "gigapixels": 1.21,
+   "channels": {
+    "DAPI": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "FTH1": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "PolyT": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "dtype": "uint16",
+   "tissue_fraction": 0.031,
+   "scan_s": 0.5
+  },
+  {
+   "name": "retina/Region 3",
+   "shape": [
+    22695,
+    18963
+   ],
+   "gigapixels": 0.43,
+   "channels": {
+    "DAPI": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "FTH1": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "PolyT": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   "dtype": "uint16",
+   "tissue_fraction": 0.102,
+   "scan_s": 0.2
+  },
+  {
+   "name": "Brain",
+   "shape": [
+    89768,
+    103201
+   ],
+   "gigapixels": 9.26,
+   "channels": {
+    "DAPI": [
+     0
+    ],
+    "PolyT": [
+     0
+    ]
+   },
+   "dtype": "uint16",
+   "tissue_fraction": 0.053,
+   "scan_s": 2.0
+  }
+ ]
+}

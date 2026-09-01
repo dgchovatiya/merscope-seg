@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.npz
+out/sheet_retina_Region1.png
+out/sheet_retina_Region2.png
+out/sheet_retina_Region3.png
+out/blackspot_demo.png
